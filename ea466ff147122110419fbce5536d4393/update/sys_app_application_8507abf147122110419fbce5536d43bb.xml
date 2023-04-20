@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Developer PDI test</description>
+        <device_type>browser</device_type>
+        <hint>Developer PDI test</hint>
+        <name/>
+        <order/>
+        <roles>x_106720_loaner_re.loaner_request_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-20 11:45:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8507abf147122110419fbce5536d43bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_106720_loaner_re">ea466ff147122110419fbce5536d4393</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">ea466ff147122110419fbce5536d4393</sys_scope>
+        <sys_update_name>sys_app_application_8507abf147122110419fbce5536d43bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-20 11:45:20</sys_updated_on>
+        <title>Loaner Request</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
